@@ -1,6 +1,17 @@
+#maven
 target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
 release.properties
+
+#idea
+/.idea/
+*.iml
+/*.ipr
+/*.iws
+
+#eclipse
+.project
+.classpath
